@@ -1,4 +1,4 @@
-## 🇺🇸 **Introduction — Dart & Flutter Testing Guide**
+## **Introduction — Dart & Flutter Testing Guide**
 
 [Test Structure →](../02_estrutura/02_estrutura_en.md)
 
