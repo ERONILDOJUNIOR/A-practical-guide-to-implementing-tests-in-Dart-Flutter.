@@ -12,8 +12,8 @@ O conteúdo cobre desde a **estrutura básica de testes** até **técnicas avan�
 
 | Diretório | Descrição |
 |------------|------------|
-| [`guide/pt/01_introducao_pt.md`](guide/pt/01_introducao_pt.md) | Versão em Português do guia — Introdução |
-| [`guide/en/01_introduction_en.md`](guide/en/01_introduction_en.md) | English version of the guide — Introduction |
+| [`guide/pt/01_introducao_pt.md`](01_introducao/01_introducao_pt.md) | Versão em Português do guia — Introdução |
+| [`guide/en/01_introduction_en.md`](01_introducao/01_introducao_en.md) | English version of the guide — Introduction |
 | `examples/` | Exemplos práticos de código divididos por tipo de teste |
 
 ---
@@ -74,8 +74,8 @@ It covers everything from **basic test structures** to **advanced testing techni
 
 | Directory                                                          | Description                                  |
 | ------------------------------------------------------------------ | -------------------------------------------- |
-| [`guide/pt/01_introducao_pt.md`](guide/pt/01_introducao_pt.md)     | Portuguese guide — Introduction              |
-| [`guide/en/01_introduction_en.md`](guide/en/01_introduction_en.md) | English guide — Introduction                 |
+| [`guide/pt/01_introducao_pt.md`](01_introducao/01_introducao_pt.md)     | Portuguese guide — Introduction              |
+| [`guide/en/01_introduction_en.md`](01_introducao/01_introducao_en.md) | English guide — Introduction                 |
 | `examples/`                                                        | Practical code examples divided by test type |
 
 ---
