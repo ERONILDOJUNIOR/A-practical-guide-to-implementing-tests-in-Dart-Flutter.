@@ -1,4 +1,4 @@
-## 🇧🇷 **Introdução — Guia de Testes em Dart e Flutter**
+## **Introdução — Guia de Testes em Dart e Flutter**
 
 [Estrutura de Testes →](../02_estrutura/02_estrutura_pt.md)
 
