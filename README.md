@@ -34,12 +34,12 @@ O conteúdo cobre desde a **estrutura básica de testes** até **técnicas avan�
 2. Estrutura e Fluxo
 3. Assertions
 4. Hooks
-5. Testes de Widget
-6. Boas Práticas
-7. Testes Assíncronos
-8. Mock e Stub
-9. Execução e Filtros
-10. Exemplos Completos
+5. Fluxo de Controle
+6. Testes Assíncronos
+7. Mock e Stub
+8. Integração
+9. Cobertura
+10. Referências
 
 ---
 
@@ -98,12 +98,12 @@ It covers everything from **basic test structures** to **advanced testing techni
 2. Structure and Flow
 3. Assertions
 4. Hooks
-5. Widget Testing
-6. Best Practices
-7. Async Testing
-8. Mock and Stub
-9. Execution and Filters
-10. Complete Examples
+5. Control Flow
+6. Asynchronous Testing
+7. Mock and Stub
+8. Integration
+9. Coverage
+10. References
 
 ---
 
